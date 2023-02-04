@@ -85,7 +85,7 @@ print(intersection(array1, array2))
 print()
 
 
-# ЗАДАЧА 6 (21 минута).
+# ЗАДАЧА 6 (31 минута).
 
 def matrix(n):
     n_new = n + 1  # учла доп. столбец
